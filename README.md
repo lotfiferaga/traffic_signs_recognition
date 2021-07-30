@@ -24,4 +24,4 @@ The dataset contains more than 50,000 images of different traffic signs. It is f
 1.Explore the dataset        
 2.Build a CNN model          
 3.Train and validate the model        
-4.Test the model with test datase      
+4.Test the model with test dataset      
