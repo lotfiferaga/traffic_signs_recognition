@@ -19,3 +19,9 @@ the dataset of thsi project is public and available at Kaggle :
 https://www.kaggle.com/meowmeowmeowmeowmeow/gtsrb-german-traffic-sign
 
 The dataset contains more than 50,000 images of different traffic signs. It is further classified into 43 different classes. The dataset is quite varying, some of the classes have many images while some classes have few images. The size of the dataset is around 300 MB. The dataset has a train folder which contains images inside each class and a test folder which we will use for testing our model.
+
+# Steps To build this project 
+1.Explore the dataset
+2.Build a CNN model
+3.Train and validate the model
+4.Test the model with test datase
